@@ -1,8 +1,6 @@
 # 🚀 ASP.NET Core MVC Project
 
 Welcome! 🎉  
-This is a simple ASP.NET Core MVC project built with Entity Framework Core. It comes pre-configured with migrations — so after cloning, you're just a few steps away from running it locally.
-
 ---
 
 ## ✅ Requirements
